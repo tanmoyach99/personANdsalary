@@ -1,0 +1,14 @@
+.header img{
+    height: 150px;
+}
+nav{
+    background-color: mediumslateblue;
+    line-height: 40px;
+    text-align: right;
+}
+nav a{
+    text-decoration: none;
+   color: white;
+    
+    margin-right: 20px;
+}

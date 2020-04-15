@@ -1,0 +1,32 @@
+.user-details{
+    display: flex;
+    border-bottom: 2px double black;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+    box-shadow: 5px 5px 50px lightgray ;
+    
+    
+
+}
+.user-details img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    margin-top: 20px;
+    margin-left: 10px;
+    
+    margin-right: 60px;
+}
+button{
+    background-color: royalblue;
+    color: white;
+    height: 40px;
+    width: 120px;
+    
+    
+}
+.everything{
+    text-align: left;
+}
